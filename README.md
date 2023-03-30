@@ -1,7 +1,5 @@
 # contributors-test
-[![All Contributors](https://img.shields.
-io/github/all-contributors/adamltyson/contributors-test?
-color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/adamltyson/contributors-test?color=ee8449&style=flat-square)](#contributors)
 
 ## Contributors
 
