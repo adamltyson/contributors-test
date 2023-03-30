@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "adamltyson",
+      "name": "Adam Tyson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13147259?v=4",
+      "profile": "http://adamltyson.com",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "contributors-test",
+  "projectOwner": "adamltyson"
+}
